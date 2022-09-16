@@ -1,0 +1,27 @@
+.content {
+    margin-left: 2px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+.tasto {
+    background-color: #727476 ;
+    color: #030304;
+    font-size: 22pt;
+    border: 1px soldi black;
+    margin: 4px 2px;
+    height: 40px;
+    width: 46px;
+}
+.display {
+    background-color: #10f40c;
+    color: black;
+    font-size: 24pt;
+    border: #199717 solid 2px;
+    margin: 4px 2px;
+    width: 204px;
+    height: 40px;            
+}
+.uguale {
+    width: 210px;
+}
