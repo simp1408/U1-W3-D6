@@ -4,7 +4,7 @@
 }
 
 function operazione() { 
-document.getElementById("display").value=eval(document.getElementById("display").value); 
+document.getElementById("display").value= eval(document.getElementById("display").value); 
 
 }
 
